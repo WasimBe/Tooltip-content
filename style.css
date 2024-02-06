@@ -1,0 +1,10 @@
+.tooltip-content {
+    background-color: black;
+    padding: 20px;
+    display: none;
+    color: white;
+  }
+    
+  .icon:hover + .tooltip-content {
+    display: block;
+  }
